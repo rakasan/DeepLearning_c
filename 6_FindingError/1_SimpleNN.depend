@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1634658068 source:d:\repositories\projects\deeplearning\1_simplenn\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1634657917 d:\repositories\projects\deeplearning\1_simplenn\simple_neural_networks.h
+
+1634659588 source:d:\repositories\projects\deeplearning\2_mul_in_single_out\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1634659582 d:\repositories\projects\deeplearning\2_mul_in_single_out\simple_neural_networks.h
+
+1634660023 source:d:\repositories\projects\deeplearning\2_mul_in_single_out\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1634661353 source:d:\repositories\projects\deeplearning\3_single_in_mult_out\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1634660961 d:\repositories\projects\deeplearning\3_single_in_mult_out\simple_neural_networks.h
+
+1634661367 source:d:\repositories\projects\deeplearning\3_single_in_mult_out\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1634668450 source:d:\repositories\projects\deeplearning\4_multiple_in_mult_out\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1634667486 d:\repositories\projects\deeplearning\4_multiple_in_mult_out\simple_neural_networks.h
+
+1634844466 source:d:\repositories\projects\deeplearning\5_hidden_layer_nn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1634844500 d:\repositories\projects\deeplearning\5_hidden_layer_nn\simple_neural_networks.h
+
+1634847225 source:d:\repositories\projects\deeplearning\6_findingerror\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1634847235 d:\repositories\projects\deeplearning\6_findingerror\simple_neural_networks.h
+

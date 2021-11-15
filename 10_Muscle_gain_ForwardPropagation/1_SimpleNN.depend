@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1634658068 source:d:\repositories\projects\deeplearning\1_simplenn\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1634657917 d:\repositories\projects\deeplearning\1_simplenn\simple_neural_networks.h
+
+1634659588 source:d:\repositories\projects\deeplearning\2_mul_in_single_out\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1634659582 d:\repositories\projects\deeplearning\2_mul_in_single_out\simple_neural_networks.h
+
+1634660023 source:d:\repositories\projects\deeplearning\2_mul_in_single_out\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1634661353 source:d:\repositories\projects\deeplearning\3_single_in_mult_out\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1634660961 d:\repositories\projects\deeplearning\3_single_in_mult_out\simple_neural_networks.h
+
+1634661367 source:d:\repositories\projects\deeplearning\3_single_in_mult_out\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1634668450 source:d:\repositories\projects\deeplearning\4_multiple_in_mult_out\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1634667486 d:\repositories\projects\deeplearning\4_multiple_in_mult_out\simple_neural_networks.h
+
+1634844466 source:d:\repositories\projects\deeplearning\5_hidden_layer_nn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1634844500 d:\repositories\projects\deeplearning\5_hidden_layer_nn\simple_neural_networks.h
+
+1634847225 source:d:\repositories\projects\deeplearning\6_findingerror\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1634847235 d:\repositories\projects\deeplearning\6_findingerror\simple_neural_networks.h
+
+1635194706 source:d:\repositories\projects\deeplearning\7_bruteforcelearning\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1635194723 d:\repositories\projects\deeplearning\7_bruteforcelearning\simple_neural_networks.h
+
+1635194868 source:d:\repositories\projects\deeplearning\7_bruteforcelearning\simple_neural_networks.c
+	"simple_neural_networks.h"
+	"math.h"
+
+1635197820 source:d:\repositories\projects\deeplearning\8_muscle_gain_normalization\simple_neural_networks.c
+	"simple_neural_networks.h"
+	"math.h"
+
+1635197381 d:\repositories\projects\deeplearning\8_muscle_gain_normalization\simple_neural_networks.h
+
+1635266860 source:d:\repositories\projects\deeplearning\9_muscle_gain_random_initialization\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1635266934 d:\repositories\projects\deeplearning\9_muscle_gain_random_initialization\simple_neural_networks.h
+
+1635268673 source:d:\repositories\projects\deeplearning\9_muscle_gain_random_initialization\simple_neural_networks.c
+	"simple_neural_networks.h"
+	"math.h"
+	"stdlib.h"
+
+1635357882 source:d:\repositories\projects\deeplearning\10_muscle_gain_forwardpropagation\simple_neural_networks.c
+	"simple_neural_networks.h"
+	"math.h"
+	"stdlib.h"
+
+1635356392 d:\repositories\projects\deeplearning\10_muscle_gain_forwardpropagation\simple_neural_networks.h
+
+1635357053 source:d:\repositories\projects\deeplearning\10_muscle_gain_forwardpropagation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
