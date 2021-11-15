@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1637007080 source:d:\repositories\projects\deeplearning\completeneuralnetworklib\1_neuralnetwork\neuralnetwork\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nn.h"
+	"utilis.h"
+
+1637006691 source:d:\repositories\projects\deeplearning\completeneuralnetworklib\1_neuralnetwork\neuralnetwork\nn.c
+	"nn.h"
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+	"stdarg.h"
+
+1636294525 source:d:\repositories\projects\deeplearning\completeneuralnetworklib\1_neuralnetwork\neuralnetwork\utils.c
+	"utilis.h"
+
+1636294389 d:\repositories\projects\deeplearning\completeneuralnetworklib\1_neuralnetwork\neuralnetwork\utilis.h
+	"stdlib.h"
+	"stdio.h"
+
+1636386516 d:\repositories\projects\deeplearning\completeneuralnetworklib\1_neuralnetwork\neuralnetwork\nn.h
+
+1637007369 source:d:\repositories\projects\deeplearning_c\completeneuralnetworklib\neuralnetwork_testing\nn.c
+	"nn.h"
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+	"stdarg.h"
+
+1636386516 d:\repositories\projects\deeplearning_c\completeneuralnetworklib\neuralnetwork_testing\nn.h
+
+1636294525 source:d:\repositories\projects\deeplearning_c\completeneuralnetworklib\neuralnetwork_testing\utils.c
+	"utilis.h"
+
+1636294389 d:\repositories\projects\deeplearning_c\completeneuralnetworklib\neuralnetwork_testing\utilis.h
+	"stdlib.h"
+	"stdio.h"
+
+1637008798 source:d:\repositories\projects\deeplearning_c\completeneuralnetworklib\neuralnetwork_testing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nn.h"
+	"utilis.h"
+
